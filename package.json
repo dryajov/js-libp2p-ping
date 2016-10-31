@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "pull-reader": "^1.2.8",
-    "pull-stream": "^3.4.5"
+    "pull-stream": "^3.5.0"
   },
   "contributors": [
     "David Dias <daviddias.p@gmail.com>",
