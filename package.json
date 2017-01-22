@@ -37,7 +37,7 @@
     "gulp": "^3.9.1",
     "libp2p-swarm": "^0.26.3",
     "libp2p-tcp": "^0.9.1",
-    "multiaddr": "^2.1.1",
+    "multiaddr": "^2.2.0",
     "peer-id": "^0.8.0",
     "peer-info": "^0.8.1",
     "pre-commit": "^1.1.3",
